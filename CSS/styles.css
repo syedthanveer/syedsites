@@ -7,3 +7,17 @@ h1
 {
 color: #e11d74;
 }
+
+h3{
+  color: Red;
+}
+
+img {
+background-color: #91d18b;
+}
+
+
+blink
+{
+  animation: blinker 0.6s linear infinite;
+}
